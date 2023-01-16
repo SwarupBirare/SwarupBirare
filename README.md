@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/swarupbirare" target="blank"><img src="https://img.shields.io/twitter/follow/swarupbirare?logo=twitter&style=for-the-badge" alt="swarupbirare" /></a> </p>
 
 - ⚡ Fun fact **I am funny**
+- Always ready to do new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
