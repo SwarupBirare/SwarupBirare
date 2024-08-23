@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swarup Birare</h1>
-
+<h1 align="center">Passionated coder</h1>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupbirare&label=Profile%20views&color=0e75b6&style=flat" alt="swarupbirare" /> </p>
 
 <p align="left"> <a href="https://twitter.com/swarupbirare" target="blank"><img src="https://img.shields.io/twitter/follow/swarupbirare?logo=twitter&style=for-the-badge" alt="swarupbirare" /></a> </p>
-
-- ⚡ Fun fact **I am funny**
-- Always ready to do new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
